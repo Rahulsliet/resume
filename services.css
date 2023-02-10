@@ -1,0 +1,16 @@
+.head {
+    align-items: center;
+    align-content: center;
+    color: red;
+    text-align: center;
+
+}
+
+.intro b {
+    color: blue;
+}
+
+.thank {
+    color: black;
+    text-align: center;
+}
